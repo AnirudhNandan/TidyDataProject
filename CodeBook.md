@@ -43,3 +43,6 @@ The file 'run_analysis.R' manipulates the given dataset to produce a tidy datase
     The mean of body jerk acceleration signal in Y axis in time domain.
 ###### 11. tBodyAccJerkMeanX: [-1,1] normalized values unit: g (accel. due to gravity)
     The mean of body jerk acceleration signal in Z axis in time domain.
+###### 12. tBodyGyroMeanX: [-1,1] normalized values unit: g (accel. due to gravity)
+###### 12. tBodyGyroMeanY: [-1,1] normalized values unit: g (accel. due to gravity)
+###### 12. tBodyGyroMeanZ: [-1,1] normalized values unit: g (accel. due to gravity)
