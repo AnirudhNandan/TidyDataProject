@@ -39,19 +39,54 @@ The file 'run_analysis.R' manipulates the given dataset to produce a tidy datase
     The mean of gravity acceleration signal in Z axis in time domain.
 ###### 9. tBodyAccJerkMeanX: [-1,1] normalized values unit: g (accel. due to gravity)
     The mean of body jerk acceleration signal in X axis in time domain.
-###### 10. tBodyAccJerkMeanX: [-1,1] normalized values unit: g (accel. due to gravity)
+###### 10. tBodyAccJerkMeanY: [-1,1] normalized values unit: g (accel. due to gravity)
     The mean of body jerk acceleration signal in Y axis in time domain.
-###### 11. tBodyAccJerkMeanX: [-1,1] normalized values unit: g (accel. due to gravity)
+###### 11. tBodyAccJerkMeanZ: [-1,1] normalized values unit: g (accel. due to gravity)
     The mean of body jerk acceleration signal in Z axis in time domain.
 ###### 12. tBodyGyroMeanX: [-1,1] normalized values unit: g (accel. due to gravity)
-    The mean of body gyroscope signal in Z axis in time domain.
+    The mean of body gyroscope signal in X axis in time domain.
 ###### 13. tBodyGyroMeanY: [-1,1] normalized values unit: g (accel. due to gravity)
-    The mean of body gyroscope signal in Z axis in time domain.
+    The mean of body gyroscope signal in Y axis in time domain.
 ###### 14. tBodyGyroMeanZ: [-1,1] normalized values unit: g (accel. due to gravity)
     The mean of body gyroscope signal in Z axis in time domain.
 ###### 15. tBodyGyroJerkMeanX: [-1,1] normalized values unit: g (accel. due to gravity)
-    The mean of body gyroscope signal in Z axis in time domain.
+    The mean of body gyroscope jerk signal in X axis in time domain.
 ###### 16. tBodyGyroJerkMeanY: [-1,1] normalized values unit: g (accel. due to gravity)
-    The mean of body gyroscope signal in Z axis in time domain.
+    The mean of body gyroscope jerk signal in Y axis in time domain.
 ###### 17. tBodyGyroJerkMeanZ: [-1,1] normalized values unit: g (accel. due to gravity)
-    The mean of body gyroscope signal in Z axis in time domain.
+    The mean of body gyroscope jerk signal in Z axis in time domain.
+###### 18. tBodyAccMagMean: [-1,1] normalized values unit: g (accel. due to gravity)
+    The mean of body acceleration magnitude signal in time domain.
+###### 19. tGravityAccMagMean: [-1,1] normalized values unit: g (accel. due to gravity)
+    The mean of gravity acceleration magnitude signal in time domain.
+###### 20. tBodyAccJerkMagMean: [-1,1] normalized values unit: g (accel. due to gravity)
+    The mean of body acceleration jerk magnitude signal in time domain.
+###### 21. tBodyGyroMagMean: [-1,1] normalized values unit: g (accel. due to gravity)
+    The mean of body gyroscope magnitude signal in time domain.
+###### 22. tBodyGyroJerkMagMean: [-1,1] normalized values unit: g (accel. due to gravity)
+    The mean of body gyroscope jerk magnitude signal in time domain.
+###### 23. fBodyAccMeanX: [-1,1] normalized values unit: g (accel. due to gravity)
+    The mean of body acceleration signal in X axis in frequency domain.
+###### 24. fBodyAccMeanY: [-1,1] normalized values unit: g (accel. due to gravity)
+    The mean of body acceleration signal in Y axis in frequency domain.
+###### 25. fBodyAccMeanZ: [-1,1] normalized values unit: g (accel. due to gravity)
+    The mean of body acceleration signal in Z axis in frequency domain.
+###### 26. fBodyAccJerkMeanX: [-1,1] normalized values unit: g (accel. due to gravity)
+    The mean of body jerk acceleration signal in X axis in frequency domain.
+###### 27. fBodyAccJerkMeanY: [-1,1] normalized values unit: g (accel. due to gravity)
+    The mean of body jerk acceleration signal in Y axis in frequency domain.
+###### 28. fBodyAccJerkMeanZ: [-1,1] normalized values unit: g (accel. due to gravity)
+    The mean of body jerk acceleration signal in Z axis in frequency domain.
+###### 29. fBodyGyroMeanX: [-1,1] normalized values unit: g (accel. due to gravity)
+    The mean of body gyroscope signal in X axis in frequency domain.
+###### 30. fBodyGyroMeanY: [-1,1] normalized values unit: g (accel. due to gravity)
+    The mean of body gyroscope signal in Y axis in frequency domain.
+###### 31. fBodyGyroMeanZ: [-1,1] normalized values unit: g (accel. due to gravity)
+    The mean of body gyroscope signal in Z axis in frequency domain.
+###### 32. fBodyAccMagMean: [-1,1] normalized values unit: g (accel. due to gravity)
+    The mean of body acceleration magnitude signal in frequency domain.
+###### 33. fBodyBodyAccJerkMagMean: [-1,1] normalized values unit: g (accel. due to gravity)
+    The mean of body acceleration jerk magnitude signal in frequency domain.
+###### 34. fBodyBodyGyroMagMean: [-1,1] normalized values unit: g (accel. due to gravity)
+    The mean of body gyroscope magnitude signal in frequency domain.
+
