@@ -89,4 +89,72 @@ The file 'run_analysis.R' manipulates the given dataset to produce a tidy datase
     The mean of body acceleration jerk magnitude signal in frequency domain.
 ###### 34. fBodyBodyGyroMagMean: [-1,1] normalized values unit: g (accel. due to gravity)
     The mean of body gyroscope magnitude signal in frequency domain.
+###### 35. fBodyBodyGyroJerkMagMean: [-1,1] normalized values unit: g (accel. due to gravity)
+    The mean of body gyroscope magnitude signal in frequency domain.
+###### 36. tBodyAccStdX: [-1,1] normalized values unit: g (accel. due to gravity)
+    The standard deviation of body acceleration signal in X axis in time domain.
+###### 37. tBodyAccStdY: [-1,1] normalized values unit: g (accel. due to gravity)
+    The standard deviation of body acceleration signal in Y axis in time domain.
+###### 38. tBodyAccStdZ: [-1,1] normalized values unit: g (accel. due to gravity)
+    The standard deviation of body acceleration signal in Z axis in time domain.
+###### 39. tGravityAccStdX: [-1,1] normalized values unit: g (accel. due to gravity)
+    The standard deviation of gravity acceleration signal in X axis in time domain.
+###### 40. tGravityAccStdY: [-1,1] normalized values unit: g (accel. due to gravity)
+    The standard deviation of gravity acceleration signal in Y axis in time domain.
+###### 41. tGravityAccStdZ: [-1,1] normalized values unit: g (accel. due to gravity)
+    The standard deviation of gravity acceleration signal in Z axis in time domain.
+###### 42. tBodyAccJerkStdX: [-1,1] normalized values unit: g (accel. due to gravity)
+    The standard deviation of body jerk acceleration signal in X axis in time domain.
+###### 43. tBodyAccJerkStdY: [-1,1] normalized values unit: g (accel. due to gravity)
+    The standard deviation of body jerk acceleration signal in Y axis in time domain.
+###### 44. tBodyAccJerkStdZ: [-1,1] normalized values unit: g (accel. due to gravity)
+    The standard deviation of body jerk acceleration signal in Z axis in time domain.
+###### 45. tBodyGyroStdX: [-1,1] normalized values unit: g (accel. due to gravity)
+    The standard deviation of body gyroscope signal in X axis in time domain.
+###### 46. tBodyGyroStdY: [-1,1] normalized values unit: g (accel. due to gravity)
+    The standard deviation of body gyroscope signal in Y axis in time domain.
+###### 47. tBodyGyroStdZ: [-1,1] normalized values unit: g (accel. due to gravity)
+    The standard deviation of body gyroscope signal in Z axis in time domain.
+###### 48. tBodyGyroJerkStdX: [-1,1] normalized values unit: g (accel. due to gravity)
+    The standard deviation of body gyroscope jerk signal in X axis in time domain.
+###### 49. tBodyGyroJerkStdY: [-1,1] normalized values unit: g (accel. due to gravity)
+    The standard deviation of body gyroscope jerk signal in Y axis in time domain.
+###### 50. tBodyGyroJerkStdZ: [-1,1] normalized values unit: g (accel. due to gravity)
+    The standard deviation of body gyroscope jerk signal in Z axis in time domain.
+###### 51. tBodyAccMagStd: [-1,1] normalized values unit: g (accel. due to gravity)
+    The standard deviation of body acceleration magnitude signal in time domain.
+###### 52. tGravityAccMagStd: [-1,1] normalized values unit: g (accel. due to gravity)
+    The standard deviation of gravity acceleration magnitude signal in time domain.
+###### 53. tBodyAccJerkMagStd: [-1,1] normalized values unit: g (accel. due to gravity)
+    The standard deviation of body acceleration jerk magnitude signal in time domain.
+###### 54. tBodyGyroMagStd: [-1,1] normalized values unit: g (accel. due to gravity)
+    The standard deviation of body gyroscope magnitude signal in time domain.
+###### 55. tBodyGyroJerkMagStd: [-1,1] normalized values unit: g (accel. due to gravity)
+    The standard deviation of body gyroscope jerk magnitude signal in time domain.
+###### 56. fBodyAccStdX: [-1,1] normalized values unit: g (accel. due to gravity)
+    The standard deviation of body acceleration signal in X axis in frequency domain.
+###### 57. fBodyAccStdY: [-1,1] normalized values unit: g (accel. due to gravity)
+    The standard deviation of body acceleration signal in Y axis in frequency domain.
+###### 58. fBodyAccStdZ: [-1,1] normalized values unit: g (accel. due to gravity)
+    The standard deviation of body acceleration signal in Z axis in frequency domain.
+###### 59. fBodyAccJerkStdX: [-1,1] normalized values unit: g (accel. due to gravity)
+    The standard deviation of body jerk acceleration signal in X axis in frequency domain.
+###### 60. fBodyAccJerkStdY: [-1,1] normalized values unit: g (accel. due to gravity)
+    The standard deviation of body jerk acceleration signal in Y axis in frequency domain.
+###### 61. fBodyAccJerkStdZ: [-1,1] normalized values unit: g (accel. due to gravity)
+    The standard deviation of body jerk acceleration signal in Z axis in frequency domain.
+###### 62. fBodyGyroStdX: [-1,1] normalized values unit: g (accel. due to gravity)
+    The standard deviation of body gyroscope signal in X axis in frequency domain.
+###### 663. fBodyGyroStdY: [-1,1] normalized values unit: g (accel. due to gravity)
+    The standard deviation of body gyroscope signal in Y axis in frequency domain.
+###### 64. fBodyGyroStdZ: [-1,1] normalized values unit: g (accel. due to gravity)
+    The standard deviation of body gyroscope signal in Z axis in frequency domain.
+###### 65. fBodyAccMagStd: [-1,1] normalized values unit: g (accel. due to gravity)
+    The standard deviation of body acceleration magnitude signal in frequency domain.
+###### 66. fBodyBodyAccJerkMagStd: [-1,1] normalized values unit: g (accel. due to gravity)
+    The standard deviation of body acceleration jerk magnitude signal in frequency domain.
+###### 67. fBodyBodyGyroMagStd: [-1,1] normalized values unit: g (accel. due to gravity)
+    The standard deviation of body gyroscope magnitude signal in frequency domain.
+###### 68. fBodyBodyGyroJerkMagStd: [-1,1] normalized values unit: g (accel. due to gravity)
+    The standard deviation of body gyroscope jerk magnitude signal in frequency domain.
 
