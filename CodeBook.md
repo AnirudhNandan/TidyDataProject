@@ -3,6 +3,8 @@
 #### Experimental design and background:
 30 subjects performed 6 activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing Samsung Galaxy S II phone on their waist. Using the in-built sensors of phone i.e. the accelerometer and gyroscope, 3-axial linear acceleration and 3-axial angular velocity were captured. Various calculations were performed and 561 features were obtained for each (subject,activity) pair. Features are normalized and bounded within [-1,1] with unit 'g' the acceleration due to gravity.
 
+Refer: the 'README.txt' file contained in the given data base.
+
 #### Raw data:
 The raw data cosists of two sets (training and test datasets). Vectors named 'y_train.txt' and 'y_test.txt' contain values which identify various activities. Activities were identified using numbers [1 to 6] and key is given below.
 1. WALKING
