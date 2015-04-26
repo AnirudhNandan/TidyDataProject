@@ -25,21 +25,21 @@ The file 'run_analysis.R' manipulates the given dataset to produce a tidy datase
     The subject who performed the activity.
 ###### 2. activity: (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING).
     The activity which the subject performed.
-###### 3. tBodyAccMeanX:
+###### 3. tBodyAccMeanX: [-1,1] normalized values unit: g (accel. due to gravity)
     The mean of body acceleration signal in X axis in time domain.
-###### 4. tBodyAccMeanY:
+###### 4. tBodyAccMeanY: [-1,1] normalized values unit: g (accel. due to gravity)
     The mean of body acceleration signal in Y axis in time domain.
-###### 5. tBodyAccMeanZ:
+###### 5. tBodyAccMeanZ: [-1,1] normalized values unit: g (accel. due to gravity)
     The mean of body acceleration signal in Z axis in time domain.
-###### 6. tGravityAccMeanX:
+###### 6. tGravityAccMeanX: [-1,1] normalized values unit: g (accel. due to gravity)
     The mean of gravity acceleration signal in X axis in time domain.
-###### 7. tGravityAccMeanY:
+###### 7. tGravityAccMeanY: [-1,1] normalized values unit: g (accel. due to gravity)
     The mean of gravity acceleration signal in Y axis in time domain.
-###### 8. tGravityAccMeanZ:
+###### 8. tGravityAccMeanZ: [-1,1] normalized values unit: g (accel. due to gravity)
     The mean of gravity acceleration signal in Z axis in time domain.
-###### 9. tBodyAccJerkMeanX:
+###### 9. tBodyAccJerkMeanX: [-1,1] normalized values unit: g (accel. due to gravity)
     The mean of body jerk acceleration signal in X axis in time domain.
-###### 10. tBodyAccJerkMeanX:
+###### 10. tBodyAccJerkMeanX: [-1,1] normalized values unit: g (accel. due to gravity)
     The mean of body jerk acceleration signal in Y axis in time domain.
-###### 11. tBodyAccJerkMeanX:
+###### 11. tBodyAccJerkMeanX: [-1,1] normalized values unit: g (accel. due to gravity)
     The mean of body jerk acceleration signal in Z axis in time domain.
