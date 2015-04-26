@@ -19,3 +19,6 @@ Refer: https://class.coursera.org/getdata-013/forum/thread?thread_id=30
 * It can be said that my result falls in the "wide" dataframe category.
 * Refer: http://vita.had.co.nz/papers/tidy-data.pdf
 * Decomposing activity column will make the dataframe untidy. Refer: https://class.coursera.org/getdata-013/forum/thread?thread_id=30
+
+#### Output:
+* The relevant output is called 'ResultRequired' it is a data frame.
