@@ -8,7 +8,7 @@
 The resulting dataset was uploaded to coursera portal.
 
 #### Procedure to read the resulting data set:
-The data set was written using write.table(ResultRequired,row.names=FALSE) therefore to properly read the file into R you have to use data <- read.table(ResultRequired,row.names=FALSE). 
+The data set was written using write.table(ResultRequired,row.names=FALSE) therefore to properly read the file into R you have to use data <- read.table(ResultRequired,header=FALSE). 
 Refer: https://class.coursera.org/getdata-013/forum/thread?thread_id=30
 
 #### Tidyness:
